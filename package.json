@@ -7,6 +7,8 @@
     "engines": {
         "vscode": "^1.52.0"
     },
+    "private": false,
+    "overview": "README.md", 
     "categories": [
         "Extension Packs"
     ],
