@@ -31,8 +31,8 @@ Réglage de php-cs-fixer pour VisualStudio Code
      3. "php-cs-fixer.executablePath": "C:\\phpTools\\php-cs-fixer-v2.phar"
      4. "php-cs-fixer.executablePathWindows": "C:\\phpTools\\php-cs-fixer.bat"
      5. "php-cs-fixer.formatHtml": true,
-     6. "php-cs-fixer.onsave": true
-     7.  "[php]": {
+     6. "php-cs-fixer.onsave": true,
+     7. "[php]": {
                    "editor.defaultFormatter": "junstyle.php-cs-fixer"
                    },
      8. "php-cs-fixer.rules": "@Symfony"
