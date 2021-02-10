@@ -3,9 +3,13 @@
     "displayName": "Imperium",
     "publisher": "Imperium-Clan",
     "description": "Extension for work on SYMFONY",
-    "version": "0.0.1",
+    "version": "0.1.1",
     "engines": {
-        "vscode": "^1.52.0"
+        "vscode": "^1.53.1"
+    },
+    "repository": {
+    "type": "git",
+    "url": "git://github.com/npm/npm.git"
     },
     "private": false,
     "overview": "README.md", 
