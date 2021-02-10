@@ -6,7 +6,8 @@ Un package Extension pour développer sous Symfony 3,4 & 5
 
 This is package extension For Work Symfony :
 
-Symfony: le nécessaire au développemnt pour Symfony quelque soit sa version.
+Symfony:
+le nécessaire au développemnt pour Symfony quelque soit sa version.
 Docker, Git, git lens, git Graph, IntelliSense Debuggeur...
 Pack extension CSS, HTML, PHP, PHPUnit TestResolver...
 Des outils pour le JavaScript, le Json...
@@ -14,7 +15,6 @@ color Manager, colorfulComment...
 Npm
 markdownlint
 PHPUnit Test Explorer
-
 
 Pour le réglage de base des extension du pack, ce référer à l'extension elle même.
 
@@ -35,6 +35,4 @@ Réglage de php-cs-fixer pour VisualStudio Code
      7. "[php]": {
                    "editor.defaultFormatter": "junstyle.php-cs-fixer"
                    },
-     8. "php-cs-fixer.rules": "@Symfony"
-
-Enjoy
+     8. "php-cs-fixer.rules": "@Symfony",

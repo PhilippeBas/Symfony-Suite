@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "imperium" extension pack will be documented in this file.
+Amelioration du Pack
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
